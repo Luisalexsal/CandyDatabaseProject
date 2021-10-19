@@ -1,4 +1,4 @@
-// CS311 Yoshii - Hash Table header DO NOT CHANGE!!! 
+// CS311 Alex Salmeron
 // ------------------------------------------------
 
 #include "slist.h"
