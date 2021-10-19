@@ -1,4 +1,4 @@
-// CS311 Yoshii - el_t for HW8 Hash Table
+// CS311 Alex Salmeron
 // Element type of a list node is defined here
 // el_t can be changed by the client to fit its needs
 //-----------------------------------------------------
