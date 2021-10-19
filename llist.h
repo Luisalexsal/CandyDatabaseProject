@@ -1,9 +1,4 @@
 //CS311 Yoshii
-//INSTRUCTION:
-//Llist class - header file template 
-//You must complete the ** parts and then complete llist.cpp
-//Don't forget PURPOSE and PARAMETERS 
-
 // =======================================================
 // HW#: HW3P1 llist
 // Your name: Alex Salmeron
