@@ -1,4 +1,4 @@
-// Name: **
+// Name: Alex Salmeron
 // File type: client candy database
 //===========================================
 #include <fstream>
