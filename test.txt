@@ -1,0 +1,236 @@
+Script started on Thu 14 May 2020 09:23:26 PM PDT
+]0;salme011@empress:~/cs311/CS311Progs/HWPrograms/finalpro[?1034h[salme011@empress finalpro]$ ex./a.oug++ candy.cpp htable.cpp elem.cpp slist.cpp llist.cpp[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C./a.out[g++ candy.cpp htable.cpp elem.cpp slist.cpp llist.cpp
+]0;salme011@empress:~/cs311/CS311Progs/HWPrograms/finalpro[salme011@empress finalpro]$ ./a.out
+Enter a file name: candy.txt
+0:[ 2024+Skwinkle_Rellenos_Pina 1104+Tootsie_Roll 1840+Sour_Patch_Kids_Orig 2116+Sour_Patch_Kids_Extreme 2208+Sour_Patch_Kids_Xploders 1288+Smarties_Paste ]
+1:[empty]
+2:[empty]
+3:[ 1222+Sour_Skittles ]
+4:[empty]
+5:[ 1155+Air_Head_Etreme ]
+6:[empty]
+7:[ 996+Lucas_Gusano ]
+8:[ 445+Nerds 1710+Salsagetti_Original ]
+9:[empty]
+10:[empty]
+11:[empty]
+12:[ 2565+Sweetart_Cherry_Punch_Ropes ]
+13:[empty]
+14:[empty]
+15:[ 728+Smarties ]
+16:[empty]
+17:[empty]
+18:[ 846+Rip_Rolls 1674+Sweetarts_Original ]
+19:[ 870+Nerds_Rope ]
+20:[ 2619+Sweetart_Extreme_Sour_CHEWY ]
+21:[ 1424+Original_Skittle ]
+22:[empty]
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+4
+
+==================================================
+
+
+
+==========================================
+
+Enter Candy Name: Haribo_Gummy_beBears
+
+Enter Accessibility: 4
+
+Enter Sam's enjoyment: 4
+
+Enter Alex's enjoyment: 2
+
+Enter url: https://www.walmart.com/ip/Haribo-Gold-Bears-Original-Gummi-Candies-3-Lb/384704217
+
+
+==================================================
+
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+5
+
+==================================================
+
+0:[ 2024+Skwinkle_Rellenos_Pina 1104+Tootsie_Roll 1840+Sour_Patch_Kids_Orig 2116+Sour_Patch_Kids_Extreme 2208+Sour_Patch_Kids_Xploders 1288+Smarties_Paste ]
+1:[empty]
+2:[empty]
+3:[ 1222+Sour_Skittles ]
+4:[ 1476+Haribo_Gummy_Bears ]
+5:[ 1155+Air_Head_Etreme ]
+6:[empty]
+7:[ 996+Lucas_Gusano ]
+8:[ 445+Nerds 1710+Salsagetti_Original ]
+9:[empty]
+10:[empty]
+11:[empty]
+12:[ 2565+Sweetart_Cherry_Punch_Ropes ]
+13:[empty]
+14:[empty]
+15:[ 728+Smarties ]
+16:[empty]
+17:[empty]
+18:[ 846+Rip_Rolls 1674+Sweetarts_Original ]
+19:[ 870+Nerds_Rope ]
+20:[ 2619+Sweetart_Extreme_Sour_CHEWY ]
+21:[ 1424+Original_Skittle ]
+22:[empty]
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+1
+
+==================================================
+
+Enter a key... Or enter -1 to stop: 1476
+
+==================================================
+Name: Haribo_Gummy_Bears
+Accessibility: 4 (scale 1-5)
+Personal Enjoyment: 2 (scale 1-5)
+Sam's Enjoyment: 4 (scale 1-5)
+==================================================
+
+Enter a key... Or enter -1 to stop: 1222
+
+==================================================
+Name: Sour_Skittles
+Accessibility: 5 (scale 1-5)
+Personal Enjoyment: 3 (scale 1-5)
+Sam's Enjoyment: 3 (scale 1-5)
+==================================================
+
+Enter a key... Or enter -1 to stop: 13
+Error entered a faulty key.
+Enter a key... Or enter -1 to stop: -1
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+3
+
+==================================================
+
+
+===================================================
+
+Accessibility is a value that lets you know how easy or difficult a certain candy will be to find.
+Accessibility of 0: impossible to find today
+Accessibility of 1: Very rare or limited edition
+Accessibility of 2: Not available in the USA and I must go to Mexico to buy it
+Accessibility of 3: Only found online
+Accessibility of 4: Available at some stores near me
+Accessibility of 5: Available virtually everywhere
+
+======================================================
+
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+2
+
+==================================================
+
+Enter a key... Or enter -1 to stop: 728
+
+==================================================
+Tha url for Smarties is: https://www.amazon.com/Smarties-Candy-Roll-160ct/dp/B0007KLGFQ
+
+==================================================
+
+Enter a key... Or enter -1 to stop: 13
+Error entered a faulty key.
+Enter a key... Or enter -1 to stop: 1476
+
+==================================================
+Tha url for Haribo_Gummy_Bears is: https://www.walmart.com/ip/Haribo-Gold-Bears-Original-Gummi-Candies-3-Lb/384704217
+
+==================================================
+
+Enter a key... Or enter -1 to stop: -1
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+5
+
+==================================================
+
+0:[ 2024+Skwinkle_Rellenos_Pina 1104+Tootsie_Roll 1840+Sour_Patch_Kids_Orig 2116+Sour_Patch_Kids_Extreme 2208+Sour_Patch_Kids_Xploders 1288+Smarties_Paste ]
+1:[empty]
+2:[empty]
+3:[ 1222+Sour_Skittles ]
+4:[ 1476+Haribo_Gummy_Bears ]
+5:[ 1155+Air_Head_Etreme ]
+6:[empty]
+7:[ 996+Lucas_Gusano ]
+8:[ 445+Nerds 1710+Salsagetti_Original ]
+9:[empty]
+10:[empty]
+11:[empty]
+12:[ 2565+Sweetart_Cherry_Punch_Ropes ]
+13:[empty]
+14:[empty]
+15:[ 728+Smarties ]
+16:[empty]
+17:[empty]
+18:[ 846+Rip_Rolls 1674+Sweetarts_Original ]
+19:[ 870+Nerds_Rope ]
+20:[ 2619+Sweetart_Extreme_Sour_CHEWY ]
+21:[ 1424+Original_Skittle ]
+22:[empty]
+
+==================================================
+
+To display a candies attributes...Enter 1
+To display a candies url...Enter 2
+To see extra details on Accessibility...Enter 3
+To add a candy...Enter 4
+To display the database...Enter 5
+Otherwise enter any other number to exit
+6
+
+==================================================
+
+]0;salme011@empress:~/cs311/CS311Progs/HWPrograms/finalpro[salme011@empress finalpro]$ exit
+exit
+
+Script done on Thu 14 May 2020 09:26:00 PM PDT
